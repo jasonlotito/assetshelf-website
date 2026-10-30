@@ -1,6 +1,6 @@
 # AssetShelf website
 
-Feature tour and downloads for AssetShelf, a native Mac library for images and audio.
+Feature tour and App Store availability for AssetShelf, a native Mac library for images and audio.
 
 **Live site:** https://jasonlotito.github.io/assetshelf-website/
 
@@ -8,7 +8,7 @@ Feature tour and downloads for AssetShelf, a native Mac library for images and a
 
 The homepage links to eight workflow pages: Organize, Find, Images, Audio, Sprite Sheets, Convert, AI & Agents, and Library Care. The feature index searches 144 feature details. Screenshots open in an accessible enlarged viewer.
 
-This repository contains the static website, sample-library screenshots, and the signed/notarized 0.1.3 build 2026103006 downloads. It does not contain the native app source or personal media.
+This repository contains the static website, sample-library screenshots, and an App Store availability page. Direct DMG/ZIP downloads are not distributed on this website. It does not contain the native app source or personal media.
 
 ## Preview
 
@@ -24,7 +24,7 @@ Merge website changes into `main`. GitHub Pages serves the repository root; `.no
 
 The initial site was generated from the AssetShelf workspace's `scripts/website/build.py` and `content.json`. That workspace retains the generator and offscreen screenshot harness; this repository holds the deployable output. Update the generator first when working from that workspace, then copy only publishing files here.
 
-Keep release filenames, displayed version/size, artifacts, and SHA-256 files in sync. Verify the checksums before publishing new downloads. Never add signing keys, credentials, native build directories, or personal libraries.
+Distribution is planned through the Mac App Store. Keep the availability page honest: until a live listing exists, display “Coming to the Mac App Store” and no purchase/download badge. Add the verified App Store URL when available. Never add signing keys, credentials, native build directories, or personal libraries.
 
 ## Screenshot credits
 
