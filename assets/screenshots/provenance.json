@@ -1,0 +1,179 @@
+[
+  {
+    "file": "activity.webp",
+    "source": "activity.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "agents-controls.webp",
+    "source": "agents-controls.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": [
+      "agents",
+      "1600x560+0+0"
+    ]
+  },
+  {
+    "file": "agents.webp",
+    "source": "agents.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "animation.webp",
+    "source": "animation.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "atlas.webp",
+    "source": "atlas.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "audio-conversion.webp",
+    "source": "audio-conversion.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "audio-filters.webp",
+    "source": "audio-filters.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "audio-inspector.webp",
+    "source": "audio-inspector.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "audio-library.webp",
+    "source": "audio-library.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "audio-properties.webp",
+    "source": "audio-properties.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "backup.webp",
+    "source": "backup.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "collection-detail.webp",
+    "source": "collection-detail.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "collections.webp",
+    "source": "collections.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "comparison.webp",
+    "source": "comparison.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "conversion.webp",
+    "source": "conversion.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "gallery.webp",
+    "source": "gallery.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "health.webp",
+    "source": "health.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "image-filters.webp",
+    "source": "image-filters.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "image-inspector.webp",
+    "source": "image-inspector.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "image-properties.webp",
+    "source": "image-properties.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "library.webp",
+    "source": "library.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "similarity.webp",
+    "source": "similarity.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "sprite-controls.webp",
+    "source": "sprite-controls.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": [
+      "sprite-sheet",
+      "540x1300+0+80"
+    ]
+  },
+  {
+    "file": "sprite-sheet.webp",
+    "source": "sprite-sheet.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "tag-manager.webp",
+    "source": "tag-manager.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "tagging-controls.webp",
+    "source": "tagging-controls.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": [
+      "tagging",
+      "1600x940+0+0"
+    ]
+  },
+  {
+    "file": "tagging.webp",
+    "source": "tagging.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  },
+  {
+    "file": "variants.webp",
+    "source": "variants.png",
+    "origin": "Native AssetShelf view, rendered offscreen using scripts/website/Capture.swift with isolated sample data. Kenney Boardgame Pack cards: CC0. Coin animation and audio: synthetic demonstration media. No personal library content.",
+    "crop": null
+  }
+]
